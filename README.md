@@ -1,5 +1,7 @@
 # Job List App
 
+**[Live Demo](https://job-list-website.vercel.app/)**
+
 A simple React application that displays job postings with filtering and a search bar.
 Built with **Vite**, **React 19**, and **TailwindCSS**.
 
@@ -84,7 +86,7 @@ src/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/job-list-app.git
+git clone https://github.com/AlaaMuhissen/job-list-website.git
 cd job-list-app
 ```
 
