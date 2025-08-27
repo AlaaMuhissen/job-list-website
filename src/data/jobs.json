@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Acme Inc.",
+      "location": "Tel Aviv",
+      "type": "Full-time",
+      "postedAt": "2025-08-01",
+      "description": "Build and ship performant UI with React. Collaborate with designers and backend engineers.",
+      "tags": ["React", "JavaScript", "UI"]
+    },
+    {
+      "id": 2,
+      "title": "React Intern",
+      "company": "NextWave",
+      "location": "Jerusalem",
+      "type": "Internship",
+      "postedAt": "2025-08-25",
+      "description": "Learn modern React patterns and contribute to real features with mentorship.",
+      "tags": ["React", "HTML", "CSS"]
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Engineer",
+      "company": "SkyLabs",
+      "location": "Remote",
+      "type": "Contract",
+      "postedAt": "2025-07-22",
+      "description": "Own end-to-end features across React and Node.js with a focus on DX and quality.",
+      "tags": ["Node.js", "React", "MongoDB"]
+    },
+    {
+      "id": 4,
+      "title": "Junior React Developer",
+      "company": "PixelWorks",
+      "location": "Haifa",
+      "type": "Full-time",
+      "postedAt": "2025-08-20",
+      "description": "Implement components, write tests, and iterate quickly in a supportive team.",
+      "tags": ["React", "TypeScript"]
+    },
+    {
+      "id": 5,
+      "title": "UI Engineer",
+      "company": "Nimbus",
+      "location": "Herzliya",
+      "type": "Full-time",
+      "postedAt": "2025-08-18",
+      "description": "Create reusable UI primitives and accessible experiences at scale.",
+      "tags": ["Accessibility", "Design Systems", "React"]
+    },
+    {
+      "id": 6,
+      "title": "React Native Developer",
+      "company": "MoveIt",
+      "location": "Remote",
+      "type": "Full-time",
+      "postedAt": "2025-08-15",
+      "description": "Ship mobile features with React Native and optimize performance across platforms.",
+      "tags": ["React Native", "Mobile", "JavaScript"]
+    }
+  ]
+  
