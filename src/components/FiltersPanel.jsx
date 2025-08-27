@@ -109,7 +109,7 @@ export default function FiltersPanel({ filters, setFilters, jobs }) {
           <button
             key={t}
             type="button"
-            onClick={toggleTag}
+            onClick={() => toggleTag(t)}
             aria-pressed={active}
             className={`text-xs px-2.5 py-1 rounded-full border transition-colors ${
               active
